@@ -5,7 +5,7 @@
 package txscript
 
 import (
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/alecalve/btcd/chaincfg"
 	"github.com/btcsuite/btcutil"
 )
 

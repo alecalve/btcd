@@ -9,10 +9,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/alecalve/btcd/btcec"
+	"github.com/alecalve/btcd/chaincfg"
+	"github.com/alecalve/btcd/txscript"
+	"github.com/alecalve/btcd/wire"
 	"github.com/btcsuite/btcutil"
 )
 

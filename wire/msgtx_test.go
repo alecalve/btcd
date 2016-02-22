@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/alecalve/btcd/wire"
 	"github.com/davecgh/go-spew/spew"
 )
 

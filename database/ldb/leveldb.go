@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/alecalve/btcd/database"
+	"github.com/alecalve/btcd/wire"
 	"github.com/btcsuite/btclog"
 	"github.com/btcsuite/btcutil"
 	"github.com/btcsuite/goleveldb/leveldb"
