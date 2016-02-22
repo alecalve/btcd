@@ -14,7 +14,7 @@ import (
 	"github.com/alecalve/btcd/database"
 	"github.com/alecalve/btcd/wire"
 	"github.com/btcsuite/btclog"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 	"github.com/btcsuite/goleveldb/leveldb"
 	"github.com/btcsuite/goleveldb/leveldb/opt"
 )

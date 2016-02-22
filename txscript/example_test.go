@@ -12,7 +12,7 @@ import (
 	"github.com/alecalve/btcd/chaincfg"
 	"github.com/alecalve/btcd/txscript"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // This example demonstrates creating a script which pays to a bitcoin address.

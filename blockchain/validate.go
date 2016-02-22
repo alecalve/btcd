@@ -15,7 +15,7 @@ import (
 	"github.com/alecalve/btcd/database"
 	"github.com/alecalve/btcd/txscript"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 const (

@@ -20,7 +20,7 @@ import (
 	_ "github.com/alecalve/btcd/database/ldb"
 	_ "github.com/alecalve/btcd/database/memdb"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 	flags "github.com/btcsuite/go-flags"
 	"github.com/btcsuite/go-socks/socks"
 )

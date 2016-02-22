@@ -12,7 +12,7 @@ import (
 	"github.com/alecalve/btcd/database"
 	"github.com/alecalve/btcd/database/memdb"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // TestClosed ensure calling the interface functions on a closed database

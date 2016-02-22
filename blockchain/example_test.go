@@ -12,7 +12,7 @@ import (
 	"github.com/alecalve/btcd/chaincfg"
 	"github.com/alecalve/btcd/database"
 	_ "github.com/alecalve/btcd/database/memdb"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

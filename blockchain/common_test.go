@@ -19,7 +19,7 @@ import (
 	_ "github.com/alecalve/btcd/database/ldb"
 	_ "github.com/alecalve/btcd/database/memdb"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // testDbType is the database backend type to use for the tests.

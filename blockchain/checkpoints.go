@@ -10,7 +10,7 @@ import (
 	"github.com/alecalve/btcd/chaincfg"
 	"github.com/alecalve/btcd/txscript"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

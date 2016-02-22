@@ -8,7 +8,7 @@ import (
 	"errors"
 
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 	"github.com/btcsuite/golangcrypto/ripemd160"
 )
 

@@ -11,7 +11,7 @@ import (
 	"github.com/alecalve/btcd/btcec"
 	"github.com/alecalve/btcd/chaincfg"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // RawTxInSignature returns the serialized ECDSA signature for the input idx of

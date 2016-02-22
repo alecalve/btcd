@@ -15,7 +15,7 @@ import (
 	"github.com/alecalve/btcd/database"
 	_ "github.com/alecalve/btcd/database/ldb"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 var zeroHash = wire.ShaHash{}

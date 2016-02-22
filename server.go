@@ -26,8 +26,8 @@ import (
 	"github.com/alecalve/btcd/peer"
 	"github.com/alecalve/btcd/txscript"
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/alecalve/btcutil"
+	"github.com/alecalve/btcutil/bloom"
 )
 
 const (

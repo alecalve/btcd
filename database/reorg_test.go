@@ -14,7 +14,7 @@ import (
 	"testing"
 
 	"github.com/alecalve/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // testReorganization performs reorganization tests for the passed DB type.

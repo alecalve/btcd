@@ -10,7 +10,7 @@ import (
 	"github.com/alecalve/btcd/chaincfg"
 	"github.com/alecalve/btcd/database"
 	_ "github.com/alecalve/btcd/database/memdb"
-	"github.com/btcsuite/btcutil"
+	"github.com/alecalve/btcutil"
 )
 
 // This example demonstrates creating a new database and inserting the genesis
